@@ -21,6 +21,15 @@ edit the application in code <br>
 <br>
 
 Links<br>
+https://habr.com/ru/post/480258/ <br>
+
+React expo + three js  <br>
+https://github.com/react-spring/react-three-fiber <br>
+https://medium.com/@zohayb1996/using-expo-and-three-js-with-react-native-4bcb353b222e
+
+React Native and three js <br>
+https://www.reddit.com/r/threejs/comments/7sbtsb/threejs_react_native_game_on_app_store_and_play/
+
 https://docs.expo.io/workflow/development-mode/?redirected <br>
 https://developer.android.com/studio/run/emulator <br>
 https://docs.expo.io/get-started/create-a-new-app/?redirected <br>
