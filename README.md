@@ -35,7 +35,7 @@ http://mkumaran.net/first/07-3dmodel-reactnative-threejs/ <br>
 https://www.gitmemory.com/issue/react-native-community/react-native-webgl/87/501528449<br>
 https://github.com/expo/expo/tree/master/packages/expo-gl <br>
 https://docs.expo.io/expokit/expokit/#changing-native-dependencies <br>
-
+<br>
 `git status` <br>
 `git add .` <br>
 `git commit -m 'string_string'` <br>
