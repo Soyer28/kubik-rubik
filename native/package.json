@@ -35,7 +35,7 @@
     "react-native-safe-area-context": "0.7.3",
     "react-native-webgl": "^0.8.0",
     "react-native-webview": "8.1.1",
-    "three": "^0.115.0"
+    "three": "^0.137.0"
   },
   "devDependencies": {
     "@babel/core": "^7.8.6",
